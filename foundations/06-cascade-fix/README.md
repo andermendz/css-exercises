@@ -13,3 +13,5 @@ Issues with the cascade can be the bane of their existence for many when it come
 ### Self Check
 - Did you make sure to not edit the HTML file?
 - If you added selectors to the CSS, do they target a valid HTML element?
+
+DONE
